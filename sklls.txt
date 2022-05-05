@@ -1,0 +1,11 @@
+1) Basik Theory
+2) Client Server Architecture
+3) HTTP
+4) JSON
+5) XML
+6) Testing API
+7) Dev Tools
+8) VPN
+9) Terminal
+10) SQL
+11) Mobile Testing
